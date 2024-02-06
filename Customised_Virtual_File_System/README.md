@@ -8,7 +8,7 @@
 <div align="center">
     <sup>More Info</sup>
     <br />
-  <sup>Copyright (c) 2021 Prasad_Dangare</sup>
+  <sup>Copyright (c) 2022 Aryan Karande</sup>
   
   Licensed Under The  [MIT License](https://github.com/PRASAD-DANGARE/Virtual_File_System/blob/main/LICENSE)
   
